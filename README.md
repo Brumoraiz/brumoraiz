@@ -1,7 +1,4 @@
 ### Olá 👋
 
-📚 Atualmente, estou cursando: Profissão Analista de Dados
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brumoraiz&show_icons=true&theme=radical)
 
-🌱 Estou no módulo I: Variáveis e Tipos de Dados
-
-📫 Como me alcançar:bruna.moraiz@outlook.com
